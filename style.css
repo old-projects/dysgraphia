@@ -1,0 +1,62 @@
+.loader {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    height: 920;
+    width: 1420;
+    overflow: hidden;
+}
+
+.invisible {
+    position: relative;
+    display: none;
+}
+
+#main {
+    margin-left: 5%;
+    position: absolute;
+}
+
+#reviewText {
+    overflow: visible;
+    box-sizing: border-box;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 100%;
+    width: 100%;
+    font-size: 1.7em;
+}
+
+.title {
+    font-family: Consolas Bold, monospace;
+    font-size: 140px;
+    margin-left: 5%;
+    margin-top: 8%;
+    margin-bottom: 0px;
+}
+
+.text1 {
+    font-family: Consolas Bold, monospace;
+    margin-left: 5%;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+
+.text2 {
+    font-family: Consolas Bold, monospace;
+    margin-left: 5%;
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+.inline-half-screen {
+    display: inline-block;
+    max-width: 50%;
+    vertical-align: top;
+}
+
+ul {
+    font-family: Consolas Bold, monospace;
+}
