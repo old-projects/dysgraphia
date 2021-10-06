@@ -1,3 +1,0 @@
-# dysgraphia
-
-Check this out
